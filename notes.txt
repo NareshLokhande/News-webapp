@@ -1,0 +1,10 @@
+1. Create react project 
+
+2. install 
+    react-router-dom
+    react-bootstrap bootstrap
+    axios
+3. API key 
+    8d872a18b9eb48979135ccc104ecf71f
+
+4. npm i react-router-bootstrap
